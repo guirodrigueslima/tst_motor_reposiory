@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 Editei o deltatau
+=======
+Eu tambem editei o deltatau
+>>>>>>> Stashed changes
 
 Script para controle do motor deltatau
